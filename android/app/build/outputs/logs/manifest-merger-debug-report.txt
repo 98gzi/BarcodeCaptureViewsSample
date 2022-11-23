@@ -63,9 +63,9 @@ INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureV
 INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:2:3-50
+		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:2:3-31
 		INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:2:3-50
+		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:2:3-31
 		INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml
@@ -129,7 +129,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ed
 	android:name
 		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:7:7-38
 		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:7:7-38
-activity#com.scandit.barcodecaptureviewssample.MainActivity
+activity#com.aptean.tms.pod.MainActivity
 ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:13:7-24:18
 	android:label
 		ADDED from C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:15:9-41

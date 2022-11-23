@@ -2,20 +2,19 @@ import React from "react";
 
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
-
-import { MainPage } from "./MainPage";
 import { FullScreenView } from "./views/FullScreenView";
+import TextInputPage from "./views/TextInputPage";
 
 const Stack = createStackNavigator();
 
 export const App = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="mainPage">
-        <Stack.Screen
-          name="mainPage"
-          component={MainPage}
-          options={{ title: "Main Page" }}
+      <Stack.Navigator initialRouteName="textInput">
+      <Stack.Screen
+          name="textInput"
+          component={TextInputPage}
+          options={{ title: "Text Input Page" }}
         />
         <Stack.Screen
           name="fs"

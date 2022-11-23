@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.scandit.barcodecaptureviewssample"
+3    package="com.aptean.tms.pod"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -33,7 +33,7 @@
 19
 20    <application
 20-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:6:5-25:19
-21        android:name="com.scandit.barcodecaptureviewssample.MainApplication"
+21        android:name="com.aptean.tms.pod.MainApplication"
 21-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:7:7-38
 22        android:allowBackup="false"
 22-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:11:7-34
@@ -55,7 +55,7 @@
 30-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\debug\AndroidManifest.xml:11:19-83
 31        <activity
 31-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:13:7-24:18
-32            android:name="com.scandit.barcodecaptureviewssample.MainActivity"
+32            android:name="com.aptean.tms.pod.MainActivity"
 32-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:14:9-37
 33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
 33-->C:\Source\Scandit\datacapture-react-native-samples\BarcodeCaptureViewsSample\android\app\src\main\AndroidManifest.xml:16:9-86
@@ -83,7 +83,7 @@
 45-->[com.scandit.datacapture:core:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\38338e4549f2b46ba2278d1d396d28bd\transformed\jetified-core-6.15.0\AndroidManifest.xml:17:9-20:40
 46            android:name="com.scandit.datacapture.core.internal.sdk.init.CoreLibraryLoaderContentProvider"
 46-->[com.scandit.datacapture:core:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\38338e4549f2b46ba2278d1d396d28bd\transformed\jetified-core-6.15.0\AndroidManifest.xml:18:13-107
-47            android:authorities="com.scandit.barcodecaptureviewssample.corelibraryloadercontentprovider"
+47            android:authorities="com.aptean.tms.pod.corelibraryloadercontentprovider"
 47-->[com.scandit.datacapture:core:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\38338e4549f2b46ba2278d1d396d28bd\transformed\jetified-core-6.15.0\AndroidManifest.xml:19:13-84
 48            android:exported="false" />
 48-->[com.scandit.datacapture:core:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\38338e4549f2b46ba2278d1d396d28bd\transformed\jetified-core-6.15.0\AndroidManifest.xml:20:13-37
@@ -91,7 +91,7 @@
 49-->[com.scandit.datacapture:barcode:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\94b4fa78b815a9ec8a012494e06aa51e\transformed\jetified-barcode-6.15.0\AndroidManifest.xml:15:9-18:40
 50            android:name="com.scandit.datacapture.barcode.internal.sdk.init.BarcodeLibraryLoaderContentProvider"
 50-->[com.scandit.datacapture:barcode:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\94b4fa78b815a9ec8a012494e06aa51e\transformed\jetified-barcode-6.15.0\AndroidManifest.xml:16:13-113
-51            android:authorities="com.scandit.barcodecaptureviewssample.barcodelibraryloadercontentprovider"
+51            android:authorities="com.aptean.tms.pod.barcodelibraryloadercontentprovider"
 51-->[com.scandit.datacapture:barcode:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\94b4fa78b815a9ec8a012494e06aa51e\transformed\jetified-barcode-6.15.0\AndroidManifest.xml:17:13-87
 52            android:exported="false" />
 52-->[com.scandit.datacapture:barcode:6.15.0] C:\Users\EduardGzibovskis\.gradle\caches\transforms-3\94b4fa78b815a9ec8a012494e06aa51e\transformed\jetified-barcode-6.15.0\AndroidManifest.xml:18:13-37
